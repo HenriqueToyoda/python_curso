@@ -1,0 +1,5 @@
+print('O meu primeiro programa')
+Num1 = int(input('digite um numero: '))
+Num2 = int(input('digite oto numero: '))
+print('Deu: ',Num1,'+', Num2,'é',Num1+Num2)
+print('Fim')
